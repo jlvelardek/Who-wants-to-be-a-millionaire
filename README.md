@@ -1,4 +1,4 @@
-# Who Wants to be a millionaire
+# Who Wants to be a Razorbucks Millionaire
 
 ## Simple and fun command game that emulates the rules of "Who wants to be a millionaire"
 
